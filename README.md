@@ -45,20 +45,21 @@ I'm always looking to learn new technologies and build projects that contribute 
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoalvessilvaas-star&show_icons=true&theme=tokyonight&locale=pt-br)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&locale=pt-br)
-
----
-
-## 🎯 Objetivos
-
-- 📚 Aprofundar meus conhecimentos em lógica de programação.
-- 🐍 Evoluir na linguagem Python.
-- 🌐 Aprender e praticar desenvolvimento web.
-- 🛠️ Criar projetos para meu portfólio.
-- 🚀 Conquistar uma oportunidade profissional na área de tecnologia.
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalvessilvaas-star&layout=compact&theme=tokyonight&locale=pt-br)
 
 ---
 
-⭐ *Sempre aprendendo, praticando e evoluindo.*
+## 🎯 Professional Goals
+
+
+- 💻 Deepen my knowledge of software development and system architecture.
+- ⚙️ Expand my experience with different programming languages and technologies.
+- 🌐 Develop efficient, scalable, and well-structured solutions.
+- 🛠️ Contribute to projects that emphasize development best practices and problem-solving.
+- 🚀 Continuously grow in the technology field by strengthening my technical and professional skills.
+
+---
+
+⭐ *Committed to continuous improvement, innovation, and excellence in software development.*
