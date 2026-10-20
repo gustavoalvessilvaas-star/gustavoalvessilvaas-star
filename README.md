@@ -1,5 +1,5 @@
 
-# 👨‍💻 Sobre mim
+# 👨‍💻 About Me
 
 Hello! I'm **Gustavo Alves Silva**👋
 
