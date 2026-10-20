@@ -1,38 +1,45 @@
 
 # 👨‍💻 Sobre mim
 
-Olá! Eu sou **Gustavo Alves Silva** 👋
+Hello! I'm **Gustavo Alves Silva**👋
 
-🎓 Estudante de **Engenharia de Software**, atualmente no 2º semestre.
+Software Engineering student, currently in my 2nd semester.
 
-💻 Estou desenvolvendo minhas habilidades em programação e buscando evoluir na área de tecnologia, com o objetivo de me tornar um desenvolvedor profissional.
+I'm developing my programming skills and striving to grow in the technology field, with the goal of becoming a professional software developer.
 
-🚀 Tenho interesse em desenvolvimento de software, lógica de programação, Python e desenvolvimento web.
+I'm interested in software development, programming logic, Python, and web development.
 
-📚 Estou sempre buscando aprender novas tecnologias e desenvolver projetos que contribuam para minha evolução profissional.
+I'm always looking to learn new technologies and build projects that contribute to my professional growth.
 
 ---
 
-## 🌐 Redes sociais
+## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-silva-68610a348/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavo.alves.silva.as@gmail.com)
 
 ---
 
-## 💻 Tecnologias e ferramentas
 
-### Linguagens e desenvolvimento web
+## 💻 TTech Stack:
 
+### 🐍 Core Backend, AI & Databases:
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🌐 Networking and Infrastructure
+
+![Networking](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
